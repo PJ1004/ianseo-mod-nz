@@ -1,17 +1,17 @@
 <?php
 /*
-3 	Type_70m Round
+37 	Type_70m Round
 
 $TourId is the ID of the tournament!
 $SubRule is the eventual subrule (see sets.php for the order)
-$TourType is the Tour Type (3)
+$TourType is the Tour Type (37)
 
 */
 
-$TourType=3;
+$TourType=37;
 
-$tourDetTypeName		= 'Type_70m Round';
-$tourDetNumDist			= '2';
+$tourDetTypeName		= 'Type_2x70mRound';
+$tourDetNumDist			= '4';
 $tourDetNumEnds			= '12';
 $tourDetMaxDistScore	= '360';
 $tourDetMaxFinIndScore	= '150';
@@ -23,8 +23,8 @@ $tourDetGolds			= '10+X';
 $tourDetXNine			= 'X';
 $tourDetGoldsChars		= 'KL';
 $tourDetXNineChars		= 'K';
-$tourDetDouble			= '0';
-$DistanceInfoArray=array(array(6, 6), array(6, 6));
+$tourDetDouble			= '1';
+$DistanceInfoArray=array(array(6, 6), array(6, 6), array(6, 6), array(6, 6));
 
 require_once('Setup_Target.php');
 
