@@ -1843,15 +1843,9 @@ switch($TourType) {
 		break;
 	case 4: //WA_72
 		CreateTargetFace($TourId, 1, '~Default', '%', '1', 5, 122, 5, 122, 5, 80, 10, 80);
-		// optional target faces
-		CreateTargetFace($TourId, 2, '~Option1', '%', '',  5, 122, 5, 122, 5, 80,  5, 80);
-		CreateTargetFace($TourId, 3, '~Option2', '%', '',  5, 122, 5, 122, 9, 80, 10, 80);
 		break;
 	case 5: //WA-900
 		CreateTargetFace($TourId, 1, '~Default', '%', '1',  5, 122, 5, 122, 5, 122);
-		// optional target faces
-		CreateTargetFace($TourId, 2, '~Option1', '%', '',  5, 80, 5, 80, 5, 80);
-		CreateTargetFace($TourId, 2, '~Option2', '%', '',  9, 80, 9, 80, 9, 80);
 		break;
 	case 6: //WA-18m
 		switch($SubRule) {
