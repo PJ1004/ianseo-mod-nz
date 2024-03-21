@@ -2289,6 +2289,7 @@ switch($TourType) {
 		}
 		break;
 	case 35; //NZ-Clout
+		$i=1;
 		CreateTargetFace($TourId, $i++, '165m', 'R65M', '1', 17, 7500);
 		CreateTargetFace($TourId, $i++, '165m', 'R50M', '1', 17, 7500);
 		CreateTargetFace($TourId, $i++, '165m', 'RM', '1', 17, 7500);
