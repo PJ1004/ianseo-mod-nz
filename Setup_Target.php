@@ -1862,6 +1862,7 @@ switch($TourType) {
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C65%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C50%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CM', '1', 4, 40,  4, 40);
+				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CW', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU21%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU18%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CD', '1', 3, 40,  3, 40);
@@ -1892,6 +1893,7 @@ switch($TourType) {
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C65%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C50%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CM', '1', 4, 40,  4, 40);
+				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CW', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU21%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU18%', '1', 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CD', '1', 3, 40,  3, 40);
@@ -1938,6 +1940,7 @@ switch($TourType) {
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C65%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C50%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CM', '1', 4, 60,  4, 60);
+				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CW', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU21%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU18%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CD', '1', 3, 60,  3, 60);
@@ -1968,6 +1971,7 @@ switch($TourType) {
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C65%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C50%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CM', '1', 4, 60,  4, 60);
+				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CW', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU21%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU18%', '1', 4, 60,  4, 60);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CD', '1', 3, 60,  3, 60);
@@ -2014,6 +2018,7 @@ switch($TourType) {
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C65%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C50%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CM', '1', 4, 60,  4, 60, 4, 40,  4, 40);
+				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CW', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU21%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU18%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CD', '1', 3, 60,  3, 60, 3, 40,  3, 40);
@@ -2044,6 +2049,7 @@ switch($TourType) {
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C65%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'C50%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CM', '1', 4, 60,  4, 60, 4, 40,  4, 40);
+				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CW', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU21%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CU18%', '1', 4, 60,  4, 60, 4, 40,  4, 40);
 				CreateTargetFace($TourId, $i++, 'Triple Spot C', 'CD', '1', 3, 60,  3, 60, 3, 40,  3, 40);
