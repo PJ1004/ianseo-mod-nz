@@ -22,8 +22,8 @@ $tourDetElabTeam		= '0'; // 0:Standard, 1:Field, 2:3DI
 $tourDetElimination		= '0'; // 0: No Eliminations, 1: Elimination Allowed
 $tourDetGolds			= '9s';
 $tourDetXNine			= '7s';
-$tourDetGoldsChars		= 'H';
-$tourDetXNineChars		= 'J';
+$tourDetGoldsChars		= 'J';
+$tourDetXNineChars		= 'H';
 $tourDetDouble			= '0';
 $DistanceInfoArray=array(array(6,6));
 
